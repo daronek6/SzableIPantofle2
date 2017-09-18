@@ -1,0 +1,2 @@
+lekki pancerz
+1 0 10 0 60

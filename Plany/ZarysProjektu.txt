@@ -1,0 +1,32 @@
+Szable i pantofle 2 - Gra tekstowa (może kiedyś graficzna) inspirowana grą "Miecze i Sandały" i "Shake & Fidget"
+
+Ogólny zamysł:
+
+ POSTAĆ:
+Na wstępie gracz będzie musiał stworzyć nową postać. Gracz będzie miał możliwośc wybrać jedną z trzech profesjii:
+ -wojownika - postać ,która głownie walczy za pomocą bronii białej i jest odporna na obrażenia różnego rodzaju obrażenia;
+ -strzelca - postać, która używa rożnorakich broni dystansowych i słynie ze zręczności;
+ -maga - postaci która używa czarów do walki, ale aby moć ich używać musi posiadać odpowiednią ilość energii (many)
+
+ ARENA:
+Po stworzeni postaci gracz będzie miał możliwość udania się do areny, na której będzie walczył przeciwko innym postaciom (sterowanym przez komputer), po to aby zdobyć doświadczenie (umożliające rozwój postaci oraz odbokowywujące nowy ekwipunek) oraz złoto (potrzeble do zakupu nowego ekwipunku lub nauki czarów)
+
+Do pojedynków będzie dochodziło na jednej z paru losowych dwuwymiarowych aren. Areny będą jedynie różniły się szerokością i nazwą.
+
+Walka będze turowa (niektóre akcje będą zabierać całą turę niektóre tylko jej część)
+
+Przeciwnicy będą losowi
+ MISJE:
+Inną możliwością na zarobek i zdobycie doświadczenia będą misje.
+Misje będą odblokowywane po pewnej ilości wygranych bitew na arenie. Nie wiem jeszcze na czym będą one polegały.
+
+ SKLEP Z UZBROJENIEM, CZARAMI I DODATKAMI:
+Tutaj gracz będzie mógł zakupić nowe uzbrojenie dla swojej postaci (każda profesja będzie miała inne uzbrojenie adekwatne do profesjii)
+Dodatkami będą np. eliksiry na manę lub ogłuszające bomby, które będą możliwe do jedorazowego użycia. Również tutaj bedzie możliwoś sprzedania swojego starego uzbrojenia.
+
+ EKWIPUNEK:
+Tutaj gracz może sprawdzić i zmienić swoje uzbrojenie. Dodatkowo może sprawdzić swoje statystyki.
+
+Dokładniej opisane mechaniki i zasady działania poszczególnych warstw gry jest opisana w dokumentach tekstowych z nazwą tej warstwy np.(ARENA)
+ 
+

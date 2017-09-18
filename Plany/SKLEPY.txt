@@ -1,0 +1,12 @@
+SKLEP Z UZBROJENIEM:
+Po wybraniu tej opcji gracz może wybrać pomiędzy sprzedarzą, a kupnem.
+
+Sprzedarz przeniesie gracza do menu, w którym bedą wylistowane przedmioty, które posiada. Sprzedanie przedmiotu nie zwróci tej samej ilości złota, której wydano na kupno przedmiotu tylko np. 60% ceny.
+
+Po wybraniu kupna będzie możliwość wybrania czy gracz chce zakupić przedmioty do ataku, czy obrony. Wewnątrz tych opcji będzi ostatni podział specyficzny dla tych przedmiotów np. elemety zbroji lub różnego rodzaju bronie odpowiadające danej profesjii.
+
+SKLEP Z DODATKAMI:
+Tu gracz może kupić eleksiry many (jeśli gra magiem), bomby ogłuszające i inne jescze nie określone przedmioty. Po otrzymaniu specjalnego materiału z misji gracz bedzie miał możliwość go tu sprzedać.
+
+
+~Każde menu w którym będzie możliwość kupna, przedmioty sprzedawane będą wczytywane z pliku tekstowego, co umożliwi szybką zmianę lub dodawanie nowych przedmiotów.

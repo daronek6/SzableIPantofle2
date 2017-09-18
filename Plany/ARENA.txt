@@ -1,0 +1,15 @@
+Na arenie dochodzi do walki pomiędzy twoją postacią a "losowo" wygenerowaną postacią.
+
+Walka odbywa się turowo, gdzie np. gracz i przeciwnik posiadają po 2 punkty energii do wykorzystana na turę. Akcje, które postać wykona mogą pochłonąć wszystkie pkt. energii lub ich część co umożliwi wykonanie wielu akcji w jednej turze.
+
+Akcje, które będzie mógł wykonać gracz i przeciwnik to:
+- krok do przodu;
+- krok do tyłu;
+- skok do tyłu;
+- atak (każda postać atakuje w inny sposób);
+- użycie dodatkowego przedmiotu;
+- zakończenie tury (jeżeli żadna z akcji nie jest możliwa lub opłacalna do wykonania);
+
+Areny będą miały losową długość np. od 8 do 14 pól, i każda postać będzie zabierała jedno pole. Poruszanie się do przodu lub do tyłu przesuwa postać o jedno polę, a skok do tyłu przemieszcza o 2 pola.
+
+~Przegrana na arenie skutkuje końcem gry.

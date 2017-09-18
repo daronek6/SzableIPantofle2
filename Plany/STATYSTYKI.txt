@@ -1,0 +1,8 @@
+Po wybraniu tej opcji gracz może sprawdzić swoje statystyki takie jak:
+- ilość złota;
+- wygrane walki;
+- wykonane misje;
+- aktualne uzbrojenie;
+- inne informacje różniące się co do profesji;
+
+Oraz przejść do swojego EKWIPUNKU, gdzie będzi mógł zmienić swoje uzbrojenie albo przedmiot dodatkowy. W ekwipunku również będą pokazane materiały zdobyte z misji.

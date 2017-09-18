@@ -1,0 +1,5 @@
+﻿Tak naprawdę misje nie będą polegały na wykonywaniu jakichkolwiek czynności oprócz wybrania jej.
+
+Nowa misja odblokowuje się losowo po wygraniu np. od 2 do 4 walk na arenie. Misja gwarantuje zdobycie pewniej ilości złota i doświadczenia, a w dodatku daje możliwość na zdobycie rzadkich materiałów, które będzie można sprzedać w sklepie z dodatkami. Nie wykonanie misji przed wylosowaniem nowej spowoduję to ,że nie będzie już możliwości wykonania poprzedniej. Zakończenie misji również nie da możliwości wykonania jej ponownie.
+
+~Może misje kiedyś będą polegały na wykonaniu jakichkolwiek czynności. np. minigier lub roziązaniu zagadek.

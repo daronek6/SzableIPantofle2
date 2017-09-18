@@ -1,0 +1,5 @@
+Doswiadczenie będzie wpływało na rozwój postaci przez zdobywanie poziomów. Każdy poziom będzie osiągany po zdobyciu odpowiedniej ilości doświadczenia. Wyższy poziom daję możliwość zaekwipowania kolejnych przedmiotów kupionych ze sklepów.
+
+Dodatkowo z każdym poziomem bedą wzrastać statystyki istotne dla danej profesji np. wojownik zyska więcej siły, która przełoży się na jego wartość ataku, a mag dostanie parę pkt. many.
+
+Im wyższy poziom gracza tym trudniejszych do pokonania przeciwników będzi losował na arenie.
